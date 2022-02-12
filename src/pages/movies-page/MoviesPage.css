@@ -1,0 +1,12 @@
+.wrapper-movies-list{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 50px 30px;
+    justify-content: center;
+    column-gap: 30px;
+    row-gap: 40px;
+
+}
+
+
+
